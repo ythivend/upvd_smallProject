@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">Choisir une unité à convertir</string>
+
+    <!-- Cards -->
+    <string name="temperature">Température</string>
+    <string name="lenght">Distance</string>
+    <string name="speed">Vitesse</string>
+    <string name="volume">Volume</string>
+
+    <!-- Conversion buttons -->
+    <string name="convert_btn">Convertir</string>
+    <string name="reset_btn">Réinitialiser</string>
+
+    <!-- Inputs -->
+    <string name="input">Entrez une valeur</string>
+
+    <!-- Temp activity -->
+    <string name="temp_output">°C</string>
+
+    <!-- dist activity -->
+    <string name="dist_output">Cm</string>
+
+    <!-- speed activity -->
+    <string name="spe_output">Km/h</string>
+
+    <!-- altitude activity -->
+    <string name="todo">Cette page sera implémentée prochainement</string>
+
+    <!-- Errors -->
+    <string name="invalid">Saisie invalide</string>
+
+</resources>

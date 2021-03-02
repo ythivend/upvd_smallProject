@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">TVDConverter</string>
+    <string name="description">Choose a unit to convert</string>
+
+    <!-- Cards -->
+    <string name="temperature">Temperature</string>
+    <string name="lenght">Lenght</string>
+    <string name="speed">Speed</string>
+    <string name="volume">Volume</string>
+
+    <!-- Conversion buttons -->
+    <string name="convert_btn">Convert</string>
+    <string name="reset_btn">Reset</string>
+
+    <!-- Inputs -->
+    <string name="input">Enter a value</string>
+
+    <!-- Temp activity -->
+    <string name="temp_output">°C</string>
+
+    <!-- dist activity -->
+    <string name="dist_output">Cm</string>
+
+    <!-- speed activity -->
+    <string name="spe_output">Km/h</string>
+
+    <!-- altitude activity -->
+    <string name="todo">This page will be implemented very soon</string>
+
+    <!-- Errors -->
+    <string name="invalid">Invalid input</string>
+
+</resources>
